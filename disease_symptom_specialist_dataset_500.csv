@@ -1,0 +1,501 @@
+Disease,Symptoms,Specialist
+Influenza,"cough, fever, fatigue, sore throat",General Physician
+Meningitis,"headache, vomiting, fever",Neurologist
+Appendicitis,"fever, vomiting, nausea",Surgeon
+Migraine,"severe headache, nausea, sensitivity to light and sound",Neurologist
+Epilepsy,"jerking movements, seizures, unconsciousness",Neurologist
+Diabetes,"fatigue, blurred vision, increased thirst, frequent urination",Endocrinologist
+Gastroenteritis,"dehydration, vomiting, stomach pain, diarrhea",Gastroenterologist
+Osteoporosis,"loss of height, weak bones, back pain",Orthopedist
+Skin Allergy,"rashes, redness, itching",Dermatologist
+Pneumonia,"fever, difficulty breathing, chest pain, cough with phlegm",Pulmonologist
+Lung Cancer,"weight loss, chest pain, shortness of breath, persistent cough",Oncologist
+Stroke,"trouble speaking, vision problems, confusion",Neurologist
+Chickenpox,"body aches, fever, itchy rash, fatigue",General Physician
+COVID-19,"cough, difficulty breathing, fever",Infectious Disease Specialist
+Typhoid,"high fever, weakness, constipation, abdominal pain",General Physician
+Stroke,"trouble speaking, sudden numbness, vision problems, confusion",Neurologist
+Heart Attack,"shortness of breath, dizziness, nausea, chest pain",Cardiologist
+Sinusitis,"nasal congestion, cough, headache",ENT Specialist
+Depression,"sleep disturbances, persistent sadness, fatigue",Psychiatrist
+Meningitis,"fever, vomiting, headache, stiff neck",Neurologist
+Glaucoma,"eye pain, halos around lights, nausea",Ophthalmologist
+Chickenpox,"fever, body aches, fatigue, itchy rash",General Physician
+Sinusitis,"facial pain, nasal congestion, headache",ENT Specialist
+Chickenpox,"fatigue, body aches, itchy rash, fever",General Physician
+Ulcer,"burning stomach pain, loss of appetite, bloating, nausea",Gastroenterologist
+Anemia,"shortness of breath, pale skin, fatigue, dizziness",Hematologist
+Epilepsy,"unconsciousness, jerking movements, confusion",Neurologist
+Tuberculosis,"persistent cough, night sweats, fever",Pulmonologist
+Heart Attack,"nausea, shortness of breath, dizziness, chest pain",Cardiologist
+Asthma,"shortness of breath, wheezing, chest tightness",Pulmonologist
+Gastroenteritis,"dehydration, stomach pain, vomiting",Gastroenterologist
+Cervical Cancer,"abnormal bleeding, weight loss, fatigue, pelvic pain",Oncologist
+Lung Cancer,"chest pain, persistent cough, shortness of breath, weight loss",Oncologist
+Thyroid Disorder,"hair thinning, weight changes, fatigue, mood swings",Endocrinologist
+Acne,"pimples, oily skin, inflammation, blackheads",Dermatologist
+Gastroenteritis,"vomiting, diarrhea, dehydration",Gastroenterologist
+Meningitis,"fever, stiff neck, headache, vomiting",Neurologist
+Stroke,"trouble speaking, sudden numbness, vision problems, confusion",Neurologist
+Tuberculosis,"persistent cough, night sweats, fever",Pulmonologist
+Sinusitis,"nasal congestion, facial pain, headache",ENT Specialist
+Diabetes,"fatigue, frequent urination, increased thirst, blurred vision",Endocrinologist
+COVID-19,"cough, difficulty breathing, fever",Infectious Disease Specialist
+Stroke,"vision problems, trouble speaking, confusion, sudden numbness",Neurologist
+Leukemia,"weight loss, bruising, frequent infections",Hematologist
+Skin Allergy,"rashes, itching, redness",Dermatologist
+Epilepsy,"confusion, seizures, jerking movements",Neurologist
+Chickenpox,"body aches, fatigue, fever, itchy rash",General Physician
+Heart Attack,"chest pain, dizziness, nausea",Cardiologist
+Arthritis,"swelling, joint pain, reduced range of motion",Rheumatologist
+Alzheimer’s Disease,"confusion, difficulty reasoning, mood changes",Neurologist
+Skin Allergy,"swelling, rashes, redness",Dermatologist
+Pneumonia,"cough with phlegm, difficulty breathing, chest pain",Pulmonologist
+COVID-19,"difficulty breathing, cough, fever, loss of taste or smell",Infectious Disease Specialist
+COVID-19,"difficulty breathing, fever, loss of taste or smell",Infectious Disease Specialist
+Migraine,"severe headache, nausea, sensitivity to light and sound",Neurologist
+Skin Allergy,"rashes, swelling, itching",Dermatologist
+Alzheimer’s Disease,"mood changes, difficulty reasoning, memory loss, confusion",Neurologist
+Leukemia,"frequent infections, bruising, fatigue, weight loss",Hematologist
+Hepatitis B,"abdominal pain, nausea, fatigue",Hepatologist
+HIV/AIDS,"recurrent infections, fatigue, weight loss",Infectious Disease Specialist
+Thyroid Disorder,"fatigue, hair thinning, weight changes, mood swings",Endocrinologist
+Diabetes,"fatigue, blurred vision, increased thirst, frequent urination",Endocrinologist
+Acne,"pimples, blackheads, inflammation",Dermatologist
+Stroke,"trouble speaking, vision problems, confusion",Neurologist
+Parkinson's Disease,"tremors, balance issues, slow movement",Neurologist
+Ulcer,"bloating, burning stomach pain, nausea",Gastroenterologist
+Psoriasis,"scaling, itching, joint pain, red patches of skin",Dermatologist
+Ulcer,"burning stomach pain, bloating, nausea",Gastroenterologist
+Malaria,"chills, muscle aches, fever",Infectious Disease Specialist
+Gastroenteritis,"diarrhea, dehydration, stomach pain, vomiting",Gastroenterologist
+Chickenpox,"fatigue, body aches, fever, itchy rash",General Physician
+Chronic Kidney Disease,"high blood pressure, fatigue, swelling in legs, frequent urination",Nephrologist
+Hepatitis B,"jaundice, abdominal pain, fatigue",Hepatologist
+Gastroenteritis,"stomach pain, dehydration, diarrhea",Gastroenterologist
+Glaucoma,"eye pain, halos around lights, nausea",Ophthalmologist
+Typhoid,"high fever, weakness, constipation",General Physician
+Gallstones,"vomiting, bloating, abdominal pain, nausea",Gastroenterologist
+HIV/AIDS,"night sweats, recurrent infections, fatigue",Infectious Disease Specialist
+Acne,"blackheads, pimples, oily skin",Dermatologist
+Gastroenteritis,"vomiting, dehydration, stomach pain",Gastroenterologist
+Anemia,"pale skin, shortness of breath, dizziness",Hematologist
+Acne,"inflammation, pimples, blackheads, oily skin",Dermatologist
+Acne,"oily skin, pimples, blackheads",Dermatologist
+Cervical Cancer,"weight loss, pelvic pain, abnormal bleeding, fatigue",Oncologist
+Gastroenteritis,"stomach pain, vomiting, diarrhea, dehydration",Gastroenterologist
+Sinusitis,"nasal congestion, headache, cough, facial pain",ENT Specialist
+Arthritis,"stiffness, swelling, joint pain",Rheumatologist
+Epilepsy,"unconsciousness, confusion, jerking movements",Neurologist
+Tuberculosis,"persistent cough, night sweats, weight loss, fever",Pulmonologist
+Heart Attack,"chest pain, nausea, dizziness, shortness of breath",Cardiologist
+Tuberculosis,"fever, night sweats, weight loss, persistent cough",Pulmonologist
+Chickenpox,"body aches, itchy rash, fatigue",General Physician
+Typhoid,"high fever, weakness, constipation, abdominal pain",General Physician
+Tuberculosis,"weight loss, persistent cough, night sweats, fever",Pulmonologist
+Tuberculosis,"fever, weight loss, persistent cough, night sweats",Pulmonologist
+Anemia,"shortness of breath, fatigue, pale skin",Hematologist
+Chronic Kidney Disease,"fatigue, swelling in legs, frequent urination",Nephrologist
+Appendicitis,"fever, nausea, vomiting, abdominal pain",Surgeon
+Gallstones,"bloating, abdominal pain, nausea, vomiting",Gastroenterologist
+Ulcer,"burning stomach pain, loss of appetite, bloating",Gastroenterologist
+Heart Attack,"nausea, chest pain, dizziness",Cardiologist
+Tuberculosis,"night sweats, fever, persistent cough",Pulmonologist
+Chronic Kidney Disease,"fatigue, frequent urination, swelling in legs, high blood pressure",Nephrologist
+Anemia,"dizziness, pale skin, fatigue",Hematologist
+COVID-19,"fever, loss of taste or smell, difficulty breathing, cough",Infectious Disease Specialist
+Diabetes,"frequent urination, fatigue, blurred vision, increased thirst",Endocrinologist
+Leukemia,"bruising, frequent infections, fatigue, weight loss",Hematologist
+Acne,"blackheads, inflammation, pimples, oily skin",Dermatologist
+Chickenpox,"body aches, fatigue, fever",General Physician
+Alzheimer’s Disease,"difficulty reasoning, confusion, mood changes, memory loss",Neurologist
+Heart Attack,"chest pain, shortness of breath, nausea",Cardiologist
+Prostate Cancer,"urinary difficulties, erectile dysfunction, pelvic pain",Oncologist
+Hepatitis B,"jaundice, fatigue, nausea, abdominal pain",Hepatologist
+Heart Attack,"chest pain, shortness of breath, nausea",Cardiologist
+Sinusitis,"headache, cough, nasal congestion, facial pain",ENT Specialist
+Arthritis,"reduced range of motion, stiffness, joint pain",Rheumatologist
+Tuberculosis,"night sweats, weight loss, persistent cough",Pulmonologist
+Sinusitis,"cough, headache, nasal congestion",ENT Specialist
+HIV/AIDS,"weight loss, recurrent infections, fatigue",Infectious Disease Specialist
+Psoriasis,"red patches of skin, joint pain, itching",Dermatologist
+Parkinson's Disease,"tremors, balance issues, slow movement, stiffness",Neurologist
+Leukemia,"bruising, fatigue, weight loss",Hematologist
+Ulcer,"burning stomach pain, nausea, loss of appetite, bloating",Gastroenterologist
+Leukemia,"weight loss, frequent infections, fatigue, bruising",Hematologist
+HIV/AIDS,"weight loss, recurrent infections, fatigue, night sweats",Infectious Disease Specialist
+Thyroid Disorder,"mood swings, weight changes, fatigue, hair thinning",Endocrinologist
+Anemia,"shortness of breath, fatigue, dizziness",Hematologist
+Leukemia,"weight loss, bruising, fatigue",Hematologist
+Pneumonia,"chest pain, fever, difficulty breathing",Pulmonologist
+Stroke,"trouble speaking, vision problems, sudden numbness, confusion",Neurologist
+Tonsillitis,"swollen tonsils, sore throat, difficulty swallowing, fever",ENT Specialist
+Diabetes,"frequent urination, fatigue, blurred vision",Endocrinologist
+Pneumonia,"fever, difficulty breathing, cough with phlegm, chest pain",Pulmonologist
+Diabetes,"frequent urination, blurred vision, fatigue",Endocrinologist
+Cervical Cancer,"abnormal bleeding, weight loss, fatigue",Oncologist
+Appendicitis,"nausea, fever, abdominal pain",Surgeon
+Arthritis,"stiffness, reduced range of motion, swelling, joint pain",Rheumatologist
+Chickenpox,"itchy rash, fatigue, fever",General Physician
+Glaucoma,"vision loss, eye pain, nausea, halos around lights",Ophthalmologist
+Sinusitis,"headache, facial pain, nasal congestion, cough",ENT Specialist
+Psoriasis,"red patches of skin, joint pain, itching",Dermatologist
+Prostate Cancer,"erectile dysfunction, pelvic pain, urinary difficulties",Oncologist
+Epilepsy,"confusion, unconsciousness, seizures",Neurologist
+Hypertension,"headache, dizziness, nosebleeds, blurred vision",Cardiologist
+Diabetes,"increased thirst, fatigue, blurred vision",Endocrinologist
+Glaucoma,"nausea, vision loss, eye pain",Ophthalmologist
+Migraine,"nausea, sensitivity to light and sound, severe headache",Neurologist
+Meningitis,"vomiting, stiff neck, headache, fever",Neurologist
+Dengue,"severe headache, joint pain, skin rash, high fever",Infectious Disease Specialist
+Osteoporosis,"bone fractures, back pain, loss of height, weak bones",Orthopedist
+Appendicitis,"vomiting, nausea, abdominal pain",Surgeon
+Acne,"inflammation, blackheads, pimples, oily skin",Dermatologist
+Cervical Cancer,"weight loss, abnormal bleeding, fatigue, pelvic pain",Oncologist
+Hypertension,"nosebleeds, dizziness, blurred vision, headache",Cardiologist
+Appendicitis,"vomiting, abdominal pain, nausea",Surgeon
+Prostate Cancer,"erectile dysfunction, urinary difficulties, pelvic pain",Oncologist
+Depression,"persistent sadness, sleep disturbances, loss of interest, fatigue",Psychiatrist
+Typhoid,"weakness, high fever, abdominal pain",General Physician
+Lung Cancer,"shortness of breath, weight loss, chest pain, persistent cough",Oncologist
+Appendicitis,"fever, nausea, abdominal pain, vomiting",Surgeon
+Skin Allergy,"rashes, redness, itching",Dermatologist
+Gastroenteritis,"vomiting, diarrhea, dehydration, stomach pain",Gastroenterologist
+Sinusitis,"facial pain, headache, nasal congestion, cough",ENT Specialist
+Acne,"inflammation, pimples, blackheads",Dermatologist
+Osteoporosis,"weak bones, back pain, bone fractures",Orthopedist
+Hepatitis B,"jaundice, fatigue, nausea, abdominal pain",Hepatologist
+Skin Allergy,"swelling, itching, redness",Dermatologist
+Chickenpox,"itchy rash, fever, fatigue",General Physician
+Epilepsy,"unconsciousness, seizures, jerking movements",Neurologist
+Hypertension,"nosebleeds, blurred vision, headache, dizziness",Cardiologist
+Diabetes,"increased thirst, frequent urination, blurred vision",Endocrinologist
+Gallstones,"bloating, vomiting, abdominal pain, nausea",Gastroenterologist
+Skin Allergy,"rashes, redness, itching",Dermatologist
+Typhoid,"abdominal pain, constipation, high fever, weakness",General Physician
+Asthma,"wheezing, chest tightness, coughing, shortness of breath",Pulmonologist
+Gastroenteritis,"vomiting, diarrhea, stomach pain, dehydration",Gastroenterologist
+Depression,"fatigue, sleep disturbances, persistent sadness",Psychiatrist
+Diabetes,"increased thirst, blurred vision, frequent urination, fatigue",Endocrinologist
+Diabetes,"blurred vision, fatigue, frequent urination, increased thirst",Endocrinologist
+Ulcer,"nausea, loss of appetite, bloating, burning stomach pain",Gastroenterologist
+Epilepsy,"unconsciousness, confusion, seizures, jerking movements",Neurologist
+Lung Cancer,"persistent cough, shortness of breath, chest pain",Oncologist
+Migraine,"sensitivity to light and sound, nausea, severe headache",Neurologist
+Gastroenteritis,"dehydration, stomach pain, diarrhea, vomiting",Gastroenterologist
+Epilepsy,"jerking movements, unconsciousness, seizures, confusion",Neurologist
+Malaria,"fever, muscle aches, sweating, chills",Infectious Disease Specialist
+Heart Attack,"dizziness, chest pain, shortness of breath, nausea",Cardiologist
+Chickenpox,"fatigue, body aches, fever",General Physician
+Thyroid Disorder,"hair thinning, fatigue, mood swings, weight changes",Endocrinologist
+COVID-19,"cough, loss of taste or smell, fever, difficulty breathing",Infectious Disease Specialist
+Hepatitis B,"fatigue, jaundice, nausea",Hepatologist
+Lung Cancer,"persistent cough, shortness of breath, chest pain",Oncologist
+Leukemia,"bruising, frequent infections, fatigue, weight loss",Hematologist
+Typhoid,"constipation, high fever, abdominal pain, weakness",General Physician
+Migraine,"nausea, severe headache, sensitivity to light and sound",Neurologist
+Sinusitis,"facial pain, nasal congestion, headache, cough",ENT Specialist
+Pneumonia,"cough with phlegm, fever, difficulty breathing, chest pain",Pulmonologist
+Chronic Kidney Disease,"fatigue, high blood pressure, frequent urination",Nephrologist
+Thyroid Disorder,"mood swings, weight changes, fatigue, hair thinning",Endocrinologist
+Ulcer,"bloating, loss of appetite, burning stomach pain",Gastroenterologist
+Hepatitis B,"fatigue, jaundice, nausea",Hepatologist
+Osteoporosis,"back pain, bone fractures, loss of height, weak bones",Orthopedist
+Pneumonia,"difficulty breathing, fever, chest pain, cough with phlegm",Pulmonologist
+Diabetes,"increased thirst, frequent urination, fatigue",Endocrinologist
+Epilepsy,"unconsciousness, confusion, jerking movements",Neurologist
+Prostate Cancer,"pelvic pain, erectile dysfunction, urinary difficulties",Oncologist
+Malaria,"muscle aches, chills, sweating, fever",Infectious Disease Specialist
+Hepatitis B,"fatigue, abdominal pain, nausea",Hepatologist
+Hypertension,"dizziness, headache, nosebleeds, blurred vision",Cardiologist
+Epilepsy,"unconsciousness, confusion, jerking movements, seizures",Neurologist
+Influenza,"cough, sore throat, fever",General Physician
+Parkinson's Disease,"stiffness, tremors, balance issues",Neurologist
+Malaria,"fever, muscle aches, sweating",Infectious Disease Specialist
+Meningitis,"vomiting, headache, stiff neck, fever",Neurologist
+Leukemia,"fatigue, frequent infections, bruising, weight loss",Hematologist
+Appendicitis,"nausea, vomiting, fever",Surgeon
+Acne,"inflammation, blackheads, oily skin, pimples",Dermatologist
+Thyroid Disorder,"weight changes, mood swings, hair thinning",Endocrinologist
+Skin Allergy,"itching, redness, rashes",Dermatologist
+COVID-19,"loss of taste or smell, difficulty breathing, fever, cough",Infectious Disease Specialist
+Prostate Cancer,"erectile dysfunction, urinary difficulties, pelvic pain",Oncologist
+Prostate Cancer,"urinary difficulties, erectile dysfunction, pelvic pain",Oncologist
+Stroke,"confusion, trouble speaking, sudden numbness",Neurologist
+Dengue,"high fever, skin rash, severe headache",Infectious Disease Specialist
+Chickenpox,"fatigue, body aches, fever",General Physician
+Sinusitis,"headache, cough, facial pain, nasal congestion",ENT Specialist
+Ulcer,"bloating, nausea, burning stomach pain",Gastroenterologist
+Glaucoma,"halos around lights, eye pain, nausea, vision loss",Ophthalmologist
+HIV/AIDS,"recurrent infections, fatigue, night sweats",Infectious Disease Specialist
+Appendicitis,"vomiting, nausea, fever",Surgeon
+Alzheimer’s Disease,"memory loss, mood changes, difficulty reasoning, confusion",Neurologist
+Tuberculosis,"fever, weight loss, night sweats, persistent cough",Pulmonologist
+Gallstones,"bloating, nausea, abdominal pain",Gastroenterologist
+Dengue,"joint pain, high fever, severe headache, skin rash",Infectious Disease Specialist
+Chronic Kidney Disease,"fatigue, swelling in legs, high blood pressure",Nephrologist
+Gallstones,"abdominal pain, vomiting, nausea",Gastroenterologist
+Influenza,"muscle pain, fever, fatigue, cough",General Physician
+Osteoporosis,"bone fractures, weak bones, loss of height, back pain",Orthopedist
+Thyroid Disorder,"hair thinning, mood swings, fatigue, weight changes",Endocrinologist
+Leukemia,"frequent infections, weight loss, fatigue",Hematologist
+Migraine,"sensitivity to light and sound, severe headache, nausea",Neurologist
+Anemia,"fatigue, shortness of breath, dizziness, pale skin",Hematologist
+Cervical Cancer,"fatigue, abnormal bleeding, pelvic pain, weight loss",Oncologist
+Pneumonia,"cough with phlegm, chest pain, fever, difficulty breathing",Pulmonologist
+Migraine,"nausea, severe headache, sensitivity to light and sound",Neurologist
+Stroke,"vision problems, confusion, sudden numbness",Neurologist
+Parkinson's Disease,"balance issues, stiffness, slow movement",Neurologist
+Epilepsy,"unconsciousness, seizures, jerking movements, confusion",Neurologist
+Acne,"blackheads, pimples, inflammation, oily skin",Dermatologist
+Depression,"fatigue, persistent sadness, loss of interest",Psychiatrist
+Diabetes,"blurred vision, increased thirst, fatigue",Endocrinologist
+COVID-19,"cough, loss of taste or smell, difficulty breathing, fever",Infectious Disease Specialist
+Hepatitis B,"jaundice, fatigue, nausea, abdominal pain",Hepatologist
+Migraine,"nausea, sensitivity to light and sound, severe headache",Neurologist
+Cervical Cancer,"pelvic pain, weight loss, fatigue",Oncologist
+Skin Allergy,"rashes, itching, redness",Dermatologist
+Glaucoma,"vision loss, halos around lights, eye pain, nausea",Ophthalmologist
+Stroke,"vision problems, trouble speaking, sudden numbness",Neurologist
+Skin Allergy,"redness, rashes, itching, swelling",Dermatologist
+Arthritis,"joint pain, swelling, reduced range of motion, stiffness",Rheumatologist
+Heart Attack,"chest pain, dizziness, shortness of breath",Cardiologist
+Tonsillitis,"difficulty swallowing, swollen tonsils, fever",ENT Specialist
+Dengue,"skin rash, severe headache, joint pain, high fever",Infectious Disease Specialist
+Chickenpox,"fever, itchy rash, fatigue",General Physician
+Stroke,"trouble speaking, confusion, sudden numbness, vision problems",Neurologist
+Sinusitis,"headache, facial pain, nasal congestion, cough",ENT Specialist
+Hepatitis B,"jaundice, fatigue, abdominal pain",Hepatologist
+Chronic Kidney Disease,"high blood pressure, fatigue, swelling in legs",Nephrologist
+Prostate Cancer,"pelvic pain, erectile dysfunction, urinary difficulties",Oncologist
+Parkinson's Disease,"stiffness, tremors, balance issues",Neurologist
+Migraine,"severe headache, nausea, sensitivity to light and sound",Neurologist
+Gallstones,"bloating, abdominal pain, vomiting, nausea",Gastroenterologist
+Glaucoma,"vision loss, halos around lights, eye pain, nausea",Ophthalmologist
+Lung Cancer,"shortness of breath, weight loss, persistent cough, chest pain",Oncologist
+Hepatitis B,"nausea, jaundice, fatigue",Hepatologist
+Leukemia,"frequent infections, weight loss, fatigue, bruising",Hematologist
+Thyroid Disorder,"hair thinning, mood swings, weight changes, fatigue",Endocrinologist
+Cervical Cancer,"fatigue, weight loss, abnormal bleeding, pelvic pain",Oncologist
+Arthritis,"reduced range of motion, joint pain, swelling",Rheumatologist
+Migraine,"sensitivity to light and sound, nausea, severe headache",Neurologist
+COVID-19,"cough, difficulty breathing, loss of taste or smell, fever",Infectious Disease Specialist
+Arthritis,"reduced range of motion, stiffness, swelling",Rheumatologist
+Influenza,"fever, cough, muscle pain, fatigue",General Physician
+Diabetes,"blurred vision, frequent urination, increased thirst",Endocrinologist
+Influenza,"cough, sore throat, fever, muscle pain",General Physician
+Arthritis,"reduced range of motion, swelling, stiffness, joint pain",Rheumatologist
+Typhoid,"abdominal pain, weakness, constipation, high fever",General Physician
+Osteoporosis,"weak bones, back pain, bone fractures",Orthopedist
+Depression,"persistent sadness, sleep disturbances, loss of interest",Psychiatrist
+Asthma,"chest tightness, shortness of breath, coughing, wheezing",Pulmonologist
+Tuberculosis,"fever, persistent cough, weight loss, night sweats",Pulmonologist
+Ulcer,"nausea, loss of appetite, burning stomach pain",Gastroenterologist
+Gallstones,"vomiting, nausea, abdominal pain",Gastroenterologist
+Parkinson's Disease,"stiffness, balance issues, slow movement, tremors",Neurologist
+Tuberculosis,"persistent cough, weight loss, night sweats",Pulmonologist
+Hepatitis B,"jaundice, fatigue, nausea, abdominal pain",Hepatologist
+Tonsillitis,"difficulty swallowing, sore throat, swollen tonsils",ENT Specialist
+Parkinson's Disease,"tremors, slow movement, stiffness",Neurologist
+Lung Cancer,"shortness of breath, weight loss, chest pain, persistent cough",Oncologist
+Thyroid Disorder,"fatigue, hair thinning, mood swings, weight changes",Endocrinologist
+Appendicitis,"abdominal pain, vomiting, nausea, fever",Surgeon
+Glaucoma,"halos around lights, nausea, eye pain, vision loss",Ophthalmologist
+Prostate Cancer,"erectile dysfunction, urinary difficulties, pelvic pain",Oncologist
+Hypertension,"dizziness, nosebleeds, blurred vision",Cardiologist
+Tuberculosis,"fever, persistent cough, weight loss, night sweats",Pulmonologist
+Tuberculosis,"night sweats, weight loss, persistent cough",Pulmonologist
+Diabetes,"fatigue, increased thirst, frequent urination",Endocrinologist
+Influenza,"cough, muscle pain, fatigue",General Physician
+Sinusitis,"facial pain, nasal congestion, headache, cough",ENT Specialist
+Lung Cancer,"persistent cough, weight loss, chest pain",Oncologist
+Migraine,"sensitivity to light and sound, nausea, severe headache",Neurologist
+Appendicitis,"abdominal pain, nausea, fever, vomiting",Surgeon
+Meningitis,"fever, stiff neck, vomiting, headache",Neurologist
+Stroke,"trouble speaking, sudden numbness, vision problems, confusion",Neurologist
+Prostate Cancer,"erectile dysfunction, urinary difficulties, pelvic pain",Oncologist
+Hypertension,"nosebleeds, headache, dizziness, blurred vision",Cardiologist
+Gastroenteritis,"vomiting, stomach pain, diarrhea, dehydration",Gastroenterologist
+Diabetes,"increased thirst, fatigue, blurred vision",Endocrinologist
+Osteoporosis,"loss of height, weak bones, back pain, bone fractures",Orthopedist
+Typhoid,"weakness, high fever, constipation",General Physician
+Hepatitis B,"jaundice, nausea, fatigue",Hepatologist
+Lung Cancer,"shortness of breath, persistent cough, weight loss",Oncologist
+Anemia,"fatigue, dizziness, pale skin",Hematologist
+Asthma,"wheezing, coughing, shortness of breath",Pulmonologist
+Gastroenteritis,"dehydration, vomiting, diarrhea",Gastroenterologist
+Asthma,"chest tightness, shortness of breath, coughing",Pulmonologist
+Epilepsy,"unconsciousness, jerking movements, confusion, seizures",Neurologist
+Appendicitis,"nausea, vomiting, fever, abdominal pain",Surgeon
+Typhoid,"constipation, high fever, abdominal pain",General Physician
+Anemia,"pale skin, dizziness, fatigue, shortness of breath",Hematologist
+Tuberculosis,"fever, night sweats, weight loss, persistent cough",Pulmonologist
+Arthritis,"joint pain, stiffness, swelling, reduced range of motion",Rheumatologist
+Acne,"inflammation, blackheads, oily skin, pimples",Dermatologist
+Parkinson's Disease,"tremors, slow movement, stiffness, balance issues",Neurologist
+Sinusitis,"cough, facial pain, nasal congestion, headache",ENT Specialist
+Leukemia,"weight loss, fatigue, bruising",Hematologist
+Anemia,"dizziness, fatigue, pale skin, shortness of breath",Hematologist
+Leukemia,"bruising, weight loss, frequent infections",Hematologist
+Migraine,"nausea, sensitivity to light and sound, severe headache",Neurologist
+Cervical Cancer,"fatigue, pelvic pain, abnormal bleeding",Oncologist
+Gastroenteritis,"dehydration, vomiting, stomach pain",Gastroenterologist
+Leukemia,"frequent infections, bruising, weight loss",Hematologist
+Appendicitis,"abdominal pain, fever, nausea",Surgeon
+Cervical Cancer,"fatigue, weight loss, pelvic pain",Oncologist
+Diabetes,"fatigue, blurred vision, increased thirst, frequent urination",Endocrinologist
+Anemia,"dizziness, shortness of breath, fatigue, pale skin",Hematologist
+Pneumonia,"difficulty breathing, cough with phlegm, chest pain, fever",Pulmonologist
+Pneumonia,"difficulty breathing, cough with phlegm, chest pain",Pulmonologist
+Chronic Kidney Disease,"frequent urination, high blood pressure, fatigue, swelling in legs",Nephrologist
+Arthritis,"joint pain, stiffness, swelling",Rheumatologist
+Osteoporosis,"weak bones, bone fractures, loss of height, back pain",Orthopedist
+Skin Allergy,"swelling, rashes, itching",Dermatologist
+Glaucoma,"halos around lights, vision loss, nausea, eye pain",Ophthalmologist
+Gallstones,"abdominal pain, bloating, vomiting, nausea",Gastroenterologist
+Thyroid Disorder,"weight changes, mood swings, fatigue, hair thinning",Endocrinologist
+Prostate Cancer,"erectile dysfunction, pelvic pain, urinary difficulties",Oncologist
+Lung Cancer,"persistent cough, weight loss, chest pain",Oncologist
+Chickenpox,"itchy rash, body aches, fatigue",General Physician
+Glaucoma,"vision loss, eye pain, nausea",Ophthalmologist
+Arthritis,"swelling, stiffness, reduced range of motion, joint pain",Rheumatologist
+Heart Attack,"shortness of breath, nausea, dizziness, chest pain",Cardiologist
+Pneumonia,"chest pain, difficulty breathing, fever, cough with phlegm",Pulmonologist
+Prostate Cancer,"erectile dysfunction, urinary difficulties, pelvic pain",Oncologist
+Appendicitis,"fever, abdominal pain, nausea, vomiting",Surgeon
+HIV/AIDS,"night sweats, fatigue, weight loss, recurrent infections",Infectious Disease Specialist
+Prostate Cancer,"pelvic pain, urinary difficulties, erectile dysfunction",Oncologist
+Typhoid,"high fever, constipation, abdominal pain, weakness",General Physician
+Hypertension,"dizziness, headache, blurred vision, nosebleeds",Cardiologist
+Pneumonia,"cough with phlegm, difficulty breathing, chest pain",Pulmonologist
+Diabetes,"increased thirst, fatigue, frequent urination, blurred vision",Endocrinologist
+Depression,"loss of interest, fatigue, persistent sadness",Psychiatrist
+Skin Allergy,"itching, swelling, rashes",Dermatologist
+Alzheimer’s Disease,"confusion, memory loss, mood changes, difficulty reasoning",Neurologist
+Gallstones,"abdominal pain, vomiting, bloating",Gastroenterologist
+Thyroid Disorder,"weight changes, hair thinning, fatigue",Endocrinologist
+Cervical Cancer,"pelvic pain, fatigue, abnormal bleeding",Oncologist
+Psoriasis,"joint pain, red patches of skin, itching",Dermatologist
+Alzheimer’s Disease,"mood changes, confusion, difficulty reasoning",Neurologist
+Hypertension,"headache, nosebleeds, dizziness",Cardiologist
+Chickenpox,"itchy rash, fever, body aches",General Physician
+Asthma,"wheezing, shortness of breath, chest tightness, coughing",Pulmonologist
+Gallstones,"vomiting, bloating, abdominal pain, nausea",Gastroenterologist
+Dengue,"severe headache, high fever, joint pain, skin rash",Infectious Disease Specialist
+Ulcer,"loss of appetite, bloating, nausea",Gastroenterologist
+Skin Allergy,"redness, itching, rashes",Dermatologist
+Heart Attack,"dizziness, nausea, shortness of breath",Cardiologist
+Epilepsy,"jerking movements, seizures, confusion",Neurologist
+Leukemia,"bruising, fatigue, weight loss",Hematologist
+Malaria,"muscle aches, fever, sweating, chills",Infectious Disease Specialist
+Tuberculosis,"night sweats, persistent cough, fever, weight loss",Pulmonologist
+Tonsillitis,"sore throat, swollen tonsils, difficulty swallowing, fever",ENT Specialist
+Epilepsy,"unconsciousness, confusion, jerking movements",Neurologist
+Heart Attack,"chest pain, dizziness, shortness of breath",Cardiologist
+Hepatitis B,"jaundice, nausea, abdominal pain, fatigue",Hepatologist
+Depression,"loss of interest, persistent sadness, sleep disturbances, fatigue",Psychiatrist
+Osteoporosis,"weak bones, back pain, loss of height, bone fractures",Orthopedist
+Depression,"loss of interest, fatigue, sleep disturbances, persistent sadness",Psychiatrist
+Chronic Kidney Disease,"fatigue, swelling in legs, frequent urination, high blood pressure",Nephrologist
+Arthritis,"stiffness, swelling, joint pain, reduced range of motion",Rheumatologist
+Chickenpox,"fever, body aches, fatigue",General Physician
+Acne,"pimples, inflammation, blackheads, oily skin",Dermatologist
+Osteoporosis,"bone fractures, loss of height, weak bones, back pain",Orthopedist
+Meningitis,"vomiting, stiff neck, fever, headache",Neurologist
+Thyroid Disorder,"mood swings, fatigue, weight changes, hair thinning",Endocrinologist
+Anemia,"pale skin, fatigue, dizziness, shortness of breath",Hematologist
+Stroke,"sudden numbness, trouble speaking, confusion",Neurologist
+Anemia,"shortness of breath, pale skin, dizziness, fatigue",Hematologist
+Chronic Kidney Disease,"swelling in legs, fatigue, frequent urination",Nephrologist
+Lung Cancer,"weight loss, chest pain, shortness of breath, persistent cough",Oncologist
+Leukemia,"frequent infections, fatigue, weight loss, bruising",Hematologist
+Pneumonia,"chest pain, difficulty breathing, fever, cough with phlegm",Pulmonologist
+Gastroenteritis,"stomach pain, vomiting, diarrhea, dehydration",Gastroenterologist
+Ulcer,"nausea, loss of appetite, bloating",Gastroenterologist
+Prostate Cancer,"urinary difficulties, pelvic pain, erectile dysfunction",Oncologist
+Osteoporosis,"bone fractures, back pain, weak bones",Orthopedist
+Cervical Cancer,"weight loss, pelvic pain, abnormal bleeding",Oncologist
+Prostate Cancer,"pelvic pain, urinary difficulties, erectile dysfunction",Oncologist
+Epilepsy,"unconsciousness, confusion, seizures",Neurologist
+Gallstones,"vomiting, abdominal pain, nausea",Gastroenterologist
+Influenza,"fever, sore throat, muscle pain, cough",General Physician
+Skin Allergy,"swelling, redness, rashes, itching",Dermatologist
+Migraine,"nausea, sensitivity to light and sound, severe headache",Neurologist
+Influenza,"cough, muscle pain, sore throat, fatigue, fever",General Physician
+Influenza,"fever, muscle pain, cough",General Physician
+Chickenpox,"body aches, itchy rash, fever, fatigue",General Physician
+Gastroenteritis,"diarrhea, stomach pain, vomiting, dehydration",Gastroenterologist
+Skin Allergy,"itching, redness, rashes",Dermatologist
+Tuberculosis,"weight loss, persistent cough, fever, night sweats",Pulmonologist
+Pneumonia,"cough with phlegm, fever, chest pain, difficulty breathing",Pulmonologist
+Lung Cancer,"weight loss, persistent cough, shortness of breath",Oncologist
+Tuberculosis,"fever, persistent cough, weight loss",Pulmonologist
+Lung Cancer,"chest pain, weight loss, persistent cough",Oncologist
+Chronic Kidney Disease,"fatigue, swelling in legs, high blood pressure, frequent urination",Nephrologist
+Arthritis,"joint pain, stiffness, swelling",Rheumatologist
+Parkinson's Disease,"tremors, balance issues, stiffness",Neurologist
+Thyroid Disorder,"hair thinning, fatigue, mood swings, weight changes",Endocrinologist
+Influenza,"muscle pain, fatigue, fever",General Physician
+Malaria,"fever, muscle aches, sweating",Infectious Disease Specialist
+Typhoid,"constipation, abdominal pain, weakness, high fever",General Physician
+Arthritis,"swelling, reduced range of motion, stiffness, joint pain",Rheumatologist
+Hypertension,"headache, dizziness, nosebleeds",Cardiologist
+Arthritis,"joint pain, swelling, reduced range of motion, stiffness",Rheumatologist
+Stroke,"confusion, vision problems, sudden numbness, trouble speaking",Neurologist
+Hypertension,"blurred vision, nosebleeds, dizziness",Cardiologist
+Psoriasis,"itching, joint pain, scaling",Dermatologist
+Ulcer,"loss of appetite, nausea, burning stomach pain, bloating",Gastroenterologist
+Ulcer,"nausea, loss of appetite, bloating",Gastroenterologist
+Leukemia,"fatigue, weight loss, frequent infections, bruising",Hematologist
+Stroke,"sudden numbness, trouble speaking, vision problems, confusion",Neurologist
+Anemia,"fatigue, shortness of breath, pale skin",Hematologist
+Glaucoma,"halos around lights, nausea, vision loss, eye pain",Ophthalmologist
+Psoriasis,"red patches of skin, joint pain, itching",Dermatologist
+Tonsillitis,"difficulty swallowing, fever, sore throat, swollen tonsils",ENT Specialist
+Migraine,"nausea, severe headache, sensitivity to light and sound",Neurologist
+Chronic Kidney Disease,"high blood pressure, fatigue, frequent urination, swelling in legs",Nephrologist
+Heart Attack,"chest pain, shortness of breath, dizziness",Cardiologist
+Glaucoma,"halos around lights, eye pain, vision loss, nausea",Ophthalmologist
+Alzheimer’s Disease,"memory loss, confusion, difficulty reasoning",Neurologist
+Typhoid,"high fever, constipation, weakness, abdominal pain",General Physician
+Hypertension,"blurred vision, headache, dizziness, nosebleeds",Cardiologist
+Gallstones,"abdominal pain, vomiting, bloating, nausea",Gastroenterologist
+Stroke,"trouble speaking, sudden numbness, vision problems, confusion",Neurologist
+Epilepsy,"unconsciousness, jerking movements, confusion, seizures",Neurologist
+Lung Cancer,"persistent cough, weight loss, chest pain",Oncologist
+Dengue,"high fever, severe headache, joint pain",Infectious Disease Specialist
+Psoriasis,"itching, scaling, red patches of skin, joint pain",Dermatologist
+Tuberculosis,"fever, weight loss, persistent cough, night sweats",Pulmonologist
+Tonsillitis,"swollen tonsils, fever, difficulty swallowing",ENT Specialist
+Alzheimer’s Disease,"mood changes, difficulty reasoning, memory loss",Neurologist
+Psoriasis,"red patches of skin, scaling, itching, joint pain",Dermatologist
+Acne,"inflammation, oily skin, blackheads, pimples",Dermatologist
+Depression,"sleep disturbances, loss of interest, persistent sadness, fatigue",Psychiatrist
+Lung Cancer,"weight loss, chest pain, shortness of breath",Oncologist
+Anemia,"fatigue, dizziness, shortness of breath",Hematologist
+Stroke,"trouble speaking, vision problems, sudden numbness, confusion",Neurologist
+Hypertension,"dizziness, blurred vision, nosebleeds",Cardiologist
+Cervical Cancer,"pelvic pain, fatigue, abnormal bleeding",Oncologist
+Heart Attack,"nausea, dizziness, chest pain, shortness of breath",Cardiologist
+Arthritis,"joint pain, reduced range of motion, stiffness, swelling",Rheumatologist
+Epilepsy,"confusion, seizures, unconsciousness",Neurologist
+Chronic Kidney Disease,"high blood pressure, swelling in legs, fatigue",Nephrologist
+Epilepsy,"seizures, unconsciousness, confusion, jerking movements",Neurologist
+Alzheimer’s Disease,"difficulty reasoning, mood changes, confusion, memory loss",Neurologist
+Sinusitis,"nasal congestion, cough, headache, facial pain",ENT Specialist
+Influenza,"fatigue, muscle pain, cough, sore throat, fever",General Physician
+Arthritis,"reduced range of motion, stiffness, swelling",Rheumatologist
+Hypertension,"blurred vision, nosebleeds, headache",Cardiologist
+Diabetes,"increased thirst, frequent urination, fatigue",Endocrinologist
+Glaucoma,"halos around lights, eye pain, vision loss",Ophthalmologist
+Skin Allergy,"rashes, itching, redness, swelling",Dermatologist
+Chronic Kidney Disease,"high blood pressure, fatigue, frequent urination, swelling in legs",Nephrologist
+Appendicitis,"abdominal pain, fever, vomiting",Surgeon
+Prostate Cancer,"urinary difficulties, erectile dysfunction, pelvic pain",Oncologist
+Tuberculosis,"persistent cough, fever, night sweats, weight loss",Pulmonologist
+Diabetes,"fatigue, frequent urination, increased thirst",Endocrinologist
+Tuberculosis,"night sweats, fever, weight loss",Pulmonologist
+Hypertension,"dizziness, headache, nosebleeds",Cardiologist
+Gastroenteritis,"diarrhea, dehydration, vomiting",Gastroenterologist
+Acne,"pimples, inflammation, blackheads",Dermatologist
+Osteoporosis,"bone fractures, weak bones, loss of height",Orthopedist
