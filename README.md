@@ -96,19 +96,16 @@ http://127.0.0.1:5000
 
 
 📸 Screenshots
- ****CHATBOT PAGE****
+ ****CHATBOT PAGE****: https://github.com/Manesha-G/MedicalBot/blob/main/Medicalbotpage.jpeg
 
 
-****USER INPUT****
+****DISEASE PREDICTION****:
 
 
-****DISEASE PREDICTION****
+****SPECIALIST RECOMMENDATION**** :
 
 
-****SPECIALIST RECOMMENDATION****
-
-
-****PINCODE INPUT ANG NEARBY SPECIALIST RECOMMENDED****
+****PINCODE INPUT ANG NEARBY SPECIALIST RECOMMENDED****: 
 
 
 
