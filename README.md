@@ -38,8 +38,7 @@ MedicalBot/
 ├── server.py # Main Flask application
 ├── requirements.txt # Python dependencies
 ├── README.md # Project overview
-└── ...
-
+└──
 
 ---
 
@@ -105,7 +104,7 @@ http://127.0.0.1:5000
 ****SPECIALIST RECOMMENDATION****: https://github.com/Manesha-G/MedicalBot/blob/main/Diseaseprediction.jpeg
 
 
-****PINCODE INPUT ANG NEARBY SPECIALIST RECOMMENDED****:
+****PINCODE INPUT ANG NEARBY SPECIALIST RECOMMENDED****:https://github.com/Manesha-G/MedicalBot/blob/main/PincodeInput.jpeg
 
 
 ****Nearby Hospital****:
