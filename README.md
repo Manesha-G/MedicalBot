@@ -99,13 +99,16 @@ http://127.0.0.1:5000
  ****CHATBOT PAGE****: https://github.com/Manesha-G/MedicalBot/blob/main/Medicalbotpage.jpeg
 
 
-****DISEASE PREDICTION****:
+****DISEASE PREDICTION****: https://github.com/Manesha-G/MedicalBot/blob/main/Diseaseprediction.jpeg
 
 
-****SPECIALIST RECOMMENDATION**** :
+****SPECIALIST RECOMMENDATION****: https://github.com/Manesha-G/MedicalBot/blob/main/Diseaseprediction.jpeg
 
 
-****PINCODE INPUT ANG NEARBY SPECIALIST RECOMMENDED****: 
+****PINCODE INPUT ANG NEARBY SPECIALIST RECOMMENDED****:
+
+
+****Nearby Hospital****:
 
 
 
