@@ -32,13 +32,17 @@
 
 MedicalBot/
 │
-├── templates/ # HTML pages
-├── static/ # CSS and JavaScript files
-├── models/ # Trained ML model files (.pkl)
-├── server.py # Main Flask application
-├── requirements.txt # Python dependencies
-├── README.md # Project overview
-└──
+├── MedicalBot/
+├── index.html
+├── styles.css
+|__ script.js
+|__speech_to_text_disease_disease.py
+├── disease_prediction_model.pkl
+├── disease_symptom_specialist_dataset_500
+├── evaluate_model.py
+├── server.py
+|__vectorizer.pkl
+|__readme.md(about the project)
 
 ---
 
