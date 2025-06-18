@@ -99,16 +99,20 @@ http://127.0.0.1:5000
 
 
 📸 Screenshots
- ****CHATBOT PAGE****: (https://github.com/Manesha-G/MedicalBot/blob/main/Medicalbotpage.jpeg)
+ ### CHATBOT PAGE
+(https://github.com/Manesha-G/MedicalBot/blob/main/Medicalbotpage.jpeg)
 
 
-****DISEASE PREDICTION****: (https://github.com/Manesha-G/MedicalBot/blob/main/Diseaseprediction.jpeg)
+### DISEASE PREDICTION
+(https://github.com/Manesha-G/MedicalBot/blob/main/Diseaseprediction.jpeg)
 
 
-****SPECIALIST RECOMMENDATION****:( https://github.com/Manesha-G/MedicalBot/blob/main/Diseaseprediction.jpeg)
+### SPECIALIST RECOMMENDATION
+( https://github.com/Manesha-G/MedicalBot/blob/main/Diseaseprediction.jpeg)
 
 
-****PINCODE INPUT ANG NEARBY SPECIALIST RECOMMENDED****:(https://github.com/Manesha-G/MedicalBot/blob/main/PincodeInput.jpeg)
+### PINCODE INPUT ANG NEARBY SPECIALIST RECOMMENDED
+(https://github.com/Manesha-G/MedicalBot/blob/main/PincodeInput.jpeg)
 
 
 
