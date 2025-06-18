@@ -28,6 +28,24 @@
 
 ---
 
+📸 Screenshots
+ ### CHATBOT PAGE
+(https://github.com/Manesha-G/MedicalBot/blob/main/Medicalbotpage.jpeg)
+
+
+### DISEASE PREDICTION
+(https://github.com/Manesha-G/MedicalBot/blob/main/Diseaseprediction.jpeg)
+
+
+### SPECIALIST RECOMMENDATION
+( https://github.com/Manesha-G/MedicalBot/blob/main/Diseaseprediction.jpeg)
+
+
+### PINCODE INPUT ANG NEARBY SPECIALIST RECOMMENDED
+(https://github.com/Manesha-G/MedicalBot/blob/main/PincodeInput.jpeg)
+
+
+
 ## 📁 Project Structure
 
 MedicalBot/
@@ -96,23 +114,6 @@ http://127.0.0.1:5000
 4.The predicted disease is mapped to a specialist type.
 5.If pincode is provided, Google Maps API fetches nearby hospitals/specialists.
 6.Final output is displayed with disease, specialist, and location info.
-
-
-📸 Screenshots
- ### CHATBOT PAGE
-(https://github.com/Manesha-G/MedicalBot/blob/main/Medicalbotpage.jpeg)
-
-
-### DISEASE PREDICTION
-(https://github.com/Manesha-G/MedicalBot/blob/main/Diseaseprediction.jpeg)
-
-
-### SPECIALIST RECOMMENDATION
-( https://github.com/Manesha-G/MedicalBot/blob/main/Diseaseprediction.jpeg)
-
-
-### PINCODE INPUT ANG NEARBY SPECIALIST RECOMMENDED
-(https://github.com/Manesha-G/MedicalBot/blob/main/PincodeInput.jpeg)
 
 
 
